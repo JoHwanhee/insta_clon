@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672330843074",
+    "firebase_url": "https://newagent-ghmnhv.firebaseio.com",
+    "project_id": "newagent-ghmnhv",
+    "storage_bucket": "newagent-ghmnhv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672330843074:android:c8ac42eba109bd066acc5b",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672330843074-4aj331nlk5cdvrbrtguo35psisdki5ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram_clone",
+            "certificate_hash": "10cc6653cb0cd80b260d65fc96a68fbc30d64691"
+          }
+        },
+        {
+          "client_id": "672330843074-u0c353jhlcvh4q8dlke9h98uvgj1gjpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIWuO0iDWfKEh8j1R6Muw--KYY6L3cd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672330843074-u0c353jhlcvh4q8dlke9h98uvgj1gjpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
